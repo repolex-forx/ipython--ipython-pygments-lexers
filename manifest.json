@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "ipython",
+  "repo": "ipython-pygments-lexers",
+  "versions": [
+    {
+      "commit": "76f70093e2d354e6a2f4f42a7aed53018eff580c",
+      "parsed_at": "2026-09-16T13:32:49.240515+00:00",
+      "tag": "1.1.1",
+      "filetree": "filetree/76f70093e2d354e6a2f4f42a7aed53018eff580c.nq.gz",
+      "blobs": [
+        "blob/dfd5ad080930e1cd0a4eeae7c11997b2a8a04c7c.nq.gz",
+        "blob/5818e3fde1d51f119d2e81ef24a45e7b8a77680f.nq.gz",
+        "blob/21c7b7e062c96e8da583de8b6a815c4bfca190ea.nq.gz",
+        "blob/dd9535964c7e0e73470ca74570d012d315afb52f.nq.gz",
+        "blob/b1fa2b924611957cf2b93aab8d574afb29903b7b.nq.gz",
+        "blob/398ca1653aed60d77ad95d6917bc6902c561427f.nq.gz",
+        "blob/c655e233654b8ddf8d9a18638451a1ad6937e1d8.nq.gz",
+        "blob/84079b0e9f98cd6e4f677ac929c1d445cb192acc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
